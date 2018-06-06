@@ -1,4 +1,5 @@
-#Quick Sort
+# Quick Sort
+# Author: Yusuf Tatlier
 
 #Steps behind quicksort algorithm
 # 1. Choose a picot element (reference element)
