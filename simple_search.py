@@ -1,4 +1,5 @@
-#Simple linear search
+# Simple linear search
+# Author: Yusuf Tatlier
 
 # Search goes linearly through a list and returns first occurence of search_value
 
