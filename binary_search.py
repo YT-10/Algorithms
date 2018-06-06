@@ -1,4 +1,5 @@
-#Binary Search
+# Binary Search
+# Author: Yusuf Tatlier
 
 #Steps behind binary search
 #0. It is important to note that the binary search requires a sorted list
