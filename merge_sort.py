@@ -1,4 +1,5 @@
-#Mergesort
+# Mergesort
+# Author: Yusuf Tatlier
 
 # Steps behind merge-sort algorithm
 # 1. Split list until you have lists of length 1
